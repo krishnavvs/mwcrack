@@ -6,7 +6,7 @@ Download the installer `motivewave_setup7.0.23.exe` file from the release page. 
 
 In order to have the "free" license you can either download the already patched files from the release page or you can use the python script to do it yourself. The files needed are in `C:\Program Files (x86)\MotiveWave` and `C:\Program Files (x86)\MotiveWave\bin` or wherever you installed motivewave.
 
-Simply navigate to your  `C:\Program Files (x86)\MotiveWave` folder and click the "unins000" file to uninstall motivewave, then after that use the motivewave setup file and go throught the installation proccess.
+Simply navigate to your  `C:\Program Files (x86)\MotiveWave` folder and click the "unins000" file to uninstall motivewave, make sure you export all of your current analyses/templates, then after that use the motivewave setup file and go throught the installation proccess.
 
 After that install the provided "MotiveWave.exe" and MotiveWave.Jar" files to your downloads
 
