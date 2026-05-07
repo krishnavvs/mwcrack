@@ -4,7 +4,7 @@ Download the installer `motivewave_setup7.0.23.exe` file from the release page. 
 
 # How to use
 
-In order to get the cracked license you can either download the already patched files from the release page or you can use the python script to do it yourself.
+In order to get the cracked license you can either download the already patched files from the release page or you can use the python script attached to do it yourself.
 
 I added the 7.0.23 Motivewave setup file as that is the current version this works with as of now
 
